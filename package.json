@@ -1,0 +1,11 @@
+{
+  "name": "cloud-calculator-nodejs",
+  "version": "1.0.0",
+  "description": "A simple HTTP-based cloud calculator using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Amr Bedir",
+  "license": "MIT"
+}
